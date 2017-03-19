@@ -1,2 +1,2 @@
 # NF16
-Algorithme and Data Structures course. 
+Algorithms and Data Structures course. 
